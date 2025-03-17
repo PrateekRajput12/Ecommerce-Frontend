@@ -9,3 +9,7 @@
  - NavLinks Done 
  - Media Query Done
  - All DOne  
+
+# HeroSection
+ - Done
+ - External Font Added
